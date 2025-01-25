@@ -1,2 +1,3 @@
 # Probit Regression and Bayesian Methods for Coronary Heart Disease Risk Modeling
 This project investigates the risk factors for coronary heart disease using advanced statistical techniques. Leveraging a dataset of 462 observations with variables such as blood pressure, tobacco usage, cholesterol levels, and family history, we employed Probit regression and Bayesian methods, including the Fisher Scoring algorithm and the Random Walk Metropolis Hastings (RWMH) algorithm, to estimate coefficients and assess their influence on disease likelihood.
+A report with extensive details on methodology and results is available in this repo.
